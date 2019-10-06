@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(62, 202, 167);
+    height: 100%;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-family: 'Carter One', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Righteous', cursive;
+}
+
+a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(218, 250, 218);
+}
+
+.list {
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.item-list {
+    padding: 100px;
+    
+}
+
+button {
+    background-color: rgb(0, 0, 0);
+    background-image: url("C:\Users\João Andrade\Desktop\Rope\Images\lupa2");
+    width: 180px;
+    height: 50px;
+    border: 0px;
+}
+
